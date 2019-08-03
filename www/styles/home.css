@@ -1,0 +1,44 @@
+.birthday img {
+	width: 100%;
+	height: auto;	
+}
+
+.balloons {
+	/*height: 30% !important;*/
+	height: 27% !important;
+	width: 100%;
+}
+
+.profile img {
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	border: 1px solid #c2d8ff;
+	display: block;
+	margin: auto;
+	width: 65%;	
+}
+
+.profile {
+	display: block;
+}
+
+.home button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 12px;
+    color: #296ad4;
+    border: 1px solid #c2d8ff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+
+.quotes {
+    text-align: justify;
+    padding: 0px 20px;
+    color: #c2d8ff;
+    margin-top: 1px !important; 
+}
+
+
